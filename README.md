@@ -1,4 +1,4 @@
-#About me
+# About me
 ## Little bit about me
 My name is [Violeta Skripachova](https://www.linkedin.com/in/violeta-skripachova-015a60227).
 My life wasn’t connected with IT before, just around 2 years ago, after pandemic started, I realized how IT world is expanding.
