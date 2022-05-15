@@ -1,0 +1,99 @@
+* {
+    max-width: 100%;
+    margin: auto;
+}
+
+div {
+    border-radius: 0px;
+}
+
+#header {
+    height: 40px;
+    width: 100%;
+    background-color: rgb(247, 241, 189);
+    position: relative;
+    z-index: 1;
+}
+
+.footer {
+    height: 40px;
+    width: 100%;
+    background-color: rgb(247, 241, 189);
+    position: relative;
+    clear: both;
+}
+
+.left-side {
+    height: 1800px;
+    width: 50px;
+    background-color: rgb(247, 241, 189);
+    float: left;
+    position: relative;
+}
+
+.right-side {
+    height: 1800px;
+    width: 50px;
+    background-color: rgb(247, 241, 189);
+    float: right;
+    position: inherit;
+}
+
+.content {
+    display: inline-block;
+    margin-top: 6px;
+    margin-left: 60px;
+    width: 75%;
+    height: 1000px;
+}
+
+.heading {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.copyright {
+    float: right;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#Contact {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+#h3 {
+    margin-bottom: 5px;
+}
+
+.Work {
+    font-size: 17px;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+
+.h4 {
+    margin-bottom: 5px;
+}
+
+body {
+    background-color: rgba(247, 244, 213, 0.267);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+p {
+    margin-bottom: 5px;
+}
