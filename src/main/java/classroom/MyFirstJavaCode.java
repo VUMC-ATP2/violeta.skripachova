@@ -49,7 +49,7 @@ public class MyFirstJavaCode {
         System.out.println(mySentence);
         System.out.println(mySentence + mySecondSentence);
         System.out.println(mySentence + " " + mySecondSentence);
-        System.out.printf("%s,$s/n", mySentence, mySecondSentence);
+        System.out.printf("%s $s/n", mySentence, mySecondSentence);
 
         // boolean
         // is / has
